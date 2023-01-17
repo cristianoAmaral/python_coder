@@ -21,3 +21,7 @@ git rm => remove arquivo do repo
 git mv => pode renomear ou mover um arquivo no git
 
 git checkout => volta o arquivo para o estado original.
+
+.gitignore => Este arquivo serve para ignorar o que não será monitorado no git.
+
+git reset --hard + origin/main => Reseta as configurações para as mesmas definiçoes do server.
