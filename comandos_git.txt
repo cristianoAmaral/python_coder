@@ -19,3 +19,5 @@ git clone + caminho do repo => Clona repo para sua máquina
 git rm => remove arquivo do repo
 
 git mv => pode renomear ou mover um arquivo no git
+
+git checkout => volta o arquivo para o estado original.
