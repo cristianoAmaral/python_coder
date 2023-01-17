@@ -32,4 +32,7 @@ git reset --hard + origin/main => Reseta as configurações para as mesmas defin
 =============================================================================
 Trabalhando com Branch
 =============================================================================
+git branch => Comnado para verificar quantos branch temos e onde estamos trabalhando.
+
+
 
