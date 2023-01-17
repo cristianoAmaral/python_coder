@@ -1,0 +1,23 @@
+git init  => Adiciona o projeto ao git.
+
+git status => Exibe o status do repo que estamos trabalhando.
+
+git add => adiciona arquivo para ser comitado
+
+git add . => adiciona vários arquivos na area de Stage.
+
+git commit => Faz commmit do arquivo
+
+git commit -a -m => Para comitar todos arquivos no stage.
+
+git push => Empurra os arquivos para o server git
+
+git pull => Busca atualização no repo
+
+git clone + caminho do repo => Clona repo para sua máquina
+
+git rm => remove arquivo do repo
+
+git mv => pode renomear ou mover um arquivo no git
+
+git checkout => volta o arquivo para o estado original.
