@@ -34,5 +34,12 @@ Trabalhando com Branch
 =============================================================================
 git branch => Comnado para verificar quantos branch temos e onde estamos trabalhando.
 
+git branch + nome_branch => cria um novo branch
+
+git branch -d ou --delete => deleta um branch criado
+
+git checkout + <nome_branch> => comando para mudar de Branch
+
+git checkout -b + <nome_branch> => cria um novo branch e muda para ele.
 
 
