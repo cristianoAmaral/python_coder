@@ -62,9 +62,7 @@ git show < nome da tag> => Mostra toda atualização feita quando foi salvar a t
 
 git checkout < nome da tag > => Usado para trocar de tag
 
-## Compartilhamento e atualização de Repo
-
-git
+## Compartilhamento e atualização de Rep
 
 ## Analise e teste de Repo
 
