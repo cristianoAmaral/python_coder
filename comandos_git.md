@@ -1,6 +1,6 @@
-===============================================================================
+# Comandos Git
+
 ## Comandos básicos do git
-===============================================================================
 
 git init => Adiciona o projeto ao git.
 
@@ -30,9 +30,7 @@ git checkout => volta o arquivo para o estado original.
 
 git reset --hard + origin/main => Reseta as configurações para as mesmas definiçoes do server.
 
-===============================================================================
 ## Trabalhando com Filial
-===============================================================================
 
 git branch => Comando para verificar quantos branch temos e onde estamos trabalhando.
 
@@ -64,15 +62,11 @@ git show < nome da tag> => Mostra toda atualização feita quando foi salvar a t
 
 git checkout < nome da tag > => Usado para trocar de tag
 
-===============================================================================
 ## Compartilhamento e atualização de Repo
-===============================================================================
 
 git
 
-===============================================================================
 ## Analise e teste de Repo
-===============================================================================
 
 git show => Examinar objetos em um repositório Git e histórico de commits.
 
@@ -80,10 +74,7 @@ git diff => Mostra a diferença entre arquivos do git.
 
 git shortlog => Mostra um histórico de commits do que foi feito no projeto.
 
-===============================================================================
-
 ## Admistração de repositório
-===============================================================================
 
 git clean => limpa todos os arquivos que estão untracked
 
@@ -94,5 +85,3 @@ git fsck => Verifica a integridade dos arquivos e sua conectividade do repo.
 git reflog => Mapea todos seus passos no repo.
 
 git archive --format zip --output main_files.zip main => comando para transformar o repo em um arquivo .zip
-
-===============================================================================
